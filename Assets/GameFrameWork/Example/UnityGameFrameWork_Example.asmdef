@@ -1,0 +1,15 @@
+{
+    "name": "UnityGameFrameWork_Example",
+    "references": [
+        "GUID:6c7cee95ff9363347a8725ddeae22fde"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
